@@ -5,22 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudus-sami-maahi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://facebook.com/mahmudussamimaahi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="Facebook" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.topcoder.com/members/1229" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
-         alt="TopCoder" width="35" height="35"/>
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -40,11 +24,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudus-sami-maahi&layout=compact&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudus-sami-maahi&show_icons=true&theme=default" />
-</p>
